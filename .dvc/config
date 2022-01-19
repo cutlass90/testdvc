@@ -2,3 +2,9 @@
     autostage = true
 ['remote "ncgdrive"']
     url = https://drive.google.com/drive/folders/1kyVAaUQqByD89ST0O2ONbICMYc29Utuy?usp=sharing
+['remote "ncgdrive2"']
+    url = gdrive://1kyVAaUQqByD89ST0O2ONbICMYc29Utuy/dvc_datasets
+['remote "dvc"']
+    url = gdrive://1fSw6SJIrmVT8eaoqzWrbG5D7vzhgocn9/dvc
+['remote "dvc2"']
+    url = gdrive://1fSw6SJIrmVT8eaoqzWrbG5D7vzhgocn9
