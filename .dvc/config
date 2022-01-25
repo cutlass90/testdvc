@@ -1,6 +1,6 @@
 [core]
     autostage = true
-    remote = dvc2
+    remote = reface_storage
 ['remote "ncgdrive"']
     url = https://drive.google.com/drive/folders/1kyVAaUQqByD89ST0O2ONbICMYc29Utuy?usp=sharing
 ['remote "ncgdrive2"']
@@ -9,3 +9,5 @@
     url = gdrive://1fSw6SJIrmVT8eaoqzWrbG5D7vzhgocn9/dvc
 ['remote "dvc2"']
     url = gdrive://1fSw6SJIrmVT8eaoqzWrbG5D7vzhgocn9
+['remote "reface_storage"']
+    url = ssh://nazar@192.168.33.55/storage/dvc_datasets_test
